@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/gregkent.litjs-lgv49i1l",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve rR5s4DDa8RZdfWbRBQAg --open"
+  },
+  "dependencies": {}
+}
